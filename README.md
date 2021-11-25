@@ -17,7 +17,9 @@ for users to Create , Update, and Delete blogs as in persistence with databases<
 <div>JavaScript: it is a programming language, commonly use with web browsers</div></br>
 <b>Back end: Python, MySQL</b>
 <div>Python/Django : Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers.</div>
-<div>MySQL: MySQL is a database, widely used for accessing querying, updating, and managing data in databases.</div>
+<div>MySQL: MySQL is a database, widely used for accessing querying, updating, and managing data in databases.</div></br>
+
+Website link: http://pranaygurrapu23.pythonanywhere.com/
 
 ## Quick Start
 
